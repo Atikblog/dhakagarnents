@@ -126,7 +126,7 @@ li a:hover:not(.active) {
       background-color: #04AA6D;
     }
     </style>
-    </head>
+    
 <font size="3" Face="New Time Roman" Color="red"> 
   <center><br><h1>মালা ফ্যাশন</h1><br></center>
 </font>
@@ -144,3 +144,4 @@ li a:hover:not(.active) {
 <p2>আমাদের online shop দেখতে নিচের link visit করুন: </p2></br>
  <a href= 
 "https://atikblog.github.io/ourshop/"> click here </a>
+  </html>
