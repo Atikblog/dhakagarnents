@@ -130,7 +130,7 @@ li a:hover:not(.active) {
 <font size="3" Face="New Time Roman" Color="red"> 
   <center><br><h1>মালা ফ্যাশন</h1><br></center>
 </font>
-</head> 
+
 
   <img src="pictute.jpg.jpg"width="200" height="200"> 
 
