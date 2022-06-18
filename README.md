@@ -88,7 +88,7 @@ li a:hover:not(.active) {
       <li><a class="active" href="#home">Home</a></li>
       <li><a href="#news">News</a></li>
       <li><a href="#contact">Contact</a></li>
-      <li><a href="#https://atikblog.github.io/ourshop/">online shop</a></li>
+      <li><a href="https://atikblog.github.io/ourshop/">online shop</a></li>
     </ul><!DOCTYPE html>
     <html>
     <head>
